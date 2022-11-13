@@ -15,11 +15,4 @@ For this, or others systems/platforms (Cybersecurity, Oracle, MySQL, AIX, Linux,
 ```
 java -jar Auditing-MSSql-J.jar
 ```
-
-![imagen](https://user-images.githubusercontent.com/40904281/201532005-0f57e280-80b7-4590-a038-a7384e832056.png)
-
-![imagen](https://user-images.githubusercontent.com/40904281/201532013-ba74f8df-4bd8-43f2-adab-b5e7774f6cd5.png)
-
-![imagen](https://user-images.githubusercontent.com/40904281/201532017-27c88fdd-db39-42a0-ab46-6c6761f255a0.png)
-
-![imagen](https://user-images.githubusercontent.com/40904281/201532022-013d70cc-23f8-488d-9fe4-76e3160c2c98.png)
+![A-MSSql](https://user-images.githubusercontent.com/40904281/201538159-509296db-27bf-4bbf-b6d7-95c6d900f6e0.gif)
